@@ -17,15 +17,17 @@ Check whether or not cookies are enabled
 ```js
 var cookiesEnabled = require('@micro-js/cookies-enabled')
 
+if (!cookiesEnabled()) {
+  alert('Please enable cookies before using this website!')
+}
+
 ```
 
 ## API
 
-### cookiesEnabled(arg)
+### cookiesEnabled()
 
-- `arg` -
-
-**Returns:**
+**Returns:** Boolean indicating whether or not cookies are currently enabled in the user's browser.
 
 ## License
 
