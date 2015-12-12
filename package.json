@@ -2,7 +2,7 @@
   "name": "@micro-js/cookies-enabled",
   "description": "Check whether or not cookies are enabled",
   "repository": "git://github.com/micro-js/cookies-enabled.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
