@@ -10,12 +10,12 @@ Check whether or not cookies are enabled
 
 ## Installation
 
-    $ npm install @micro-js/cookies-enabled
+    $ npm install @f/cookies-enabled
 
 ## Usage
 
 ```js
-var cookiesEnabled = require('@micro-js/cookies-enabled')
+var cookiesEnabled = require('@f/cookies-enabled')
 
 if (!cookiesEnabled()) {
   alert('Please enable cookies before using this website!')
@@ -39,5 +39,5 @@ MIT
 [git-url]: https://github.com/micro-js/cookies-enabled
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/cookies-enabled.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/cookies-enabled
+[npm-image]: https://img.shields.io/npm/v/@f/cookies-enabled.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/cookies-enabled
